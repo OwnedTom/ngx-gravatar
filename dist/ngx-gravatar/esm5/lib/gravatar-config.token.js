@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+import { InjectionToken } from '@angular/core';
+/**
+ * Injection token for gravatar configuration
+ * @type {?}
+ */
+export var GRAVATAR_CONFIG_TOKEN = new InjectionToken('gravatarCustom.config');
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZ3JhdmF0YXItY29uZmlnLnRva2VuLmpzIiwic291cmNlUm9vdCI6Im5nOi8vbmd4LWdyYXZhdGFyLyIsInNvdXJjZXMiOlsibGliL2dyYXZhdGFyLWNvbmZpZy50b2tlbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBQUEsT0FBTyxFQUFFLGNBQWMsRUFBRSxNQUFNLGVBQWUsQ0FBQzs7Ozs7QUFNL0MsTUFBTSxLQUFPLHFCQUFxQixHQUFHLElBQUksY0FBYyxDQUFpQix1QkFBdUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IEluamVjdGlvblRva2VuIH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XG5pbXBvcnQgeyBHcmF2YXRhckNvbmZpZyB9IGZyb20gJy4vZ3JhdmF0YXItY29uZmlnJztcblxuLyoqXG4gKiBJbmplY3Rpb24gdG9rZW4gZm9yIGdyYXZhdGFyIGNvbmZpZ3VyYXRpb25cbiAqL1xuZXhwb3J0IGNvbnN0IEdSQVZBVEFSX0NPTkZJR19UT0tFTiA9IG5ldyBJbmplY3Rpb25Ub2tlbjxHcmF2YXRhckNvbmZpZz4oJ2dyYXZhdGFyQ3VzdG9tLmNvbmZpZycpO1xuIl19

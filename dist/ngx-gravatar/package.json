@@ -1,0 +1,44 @@
+{
+  "name": "ngx-gravatar",
+  "description": "A customizable Gravatar for Angular 4, 5, 6, 7 and 8+ applications - AoT compatible. It supports custom image and Gravatar sources",
+  "version": "8.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t-ho/ngx-gravatar.git"
+  },
+  "author": "t-ho <toan.hmt@gmail.com>",
+  "homepage": "https://ngx-gravatar.stackblitz.io",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "@angular/core": ">=8.0.0",
+    "@angular/common": ">=8.0.0"
+  },
+  "dependencies": {
+    "ts-md5": "^1.2.4",
+    "tslib": "^1.9.0"
+  },
+  "keywords": [
+    "ngx-gravatar",
+    "ngx gravatar",
+    "ngxGravatar",
+    "avatar",
+    "gravatar",
+    "gravatar AoT",
+    "gravatar AoT compatible",
+    "gravatar directive",
+    "global avatar",
+    "Angular avatar",
+    "Angular gravatar"
+  ],
+  "main": "bundles/ngx-gravatar.umd.js",
+  "module": "fesm5/ngx-gravatar.js",
+  "es2015": "fesm2015/ngx-gravatar.js",
+  "esm5": "esm5/ngx-gravatar.js",
+  "esm2015": "esm2015/ngx-gravatar.js",
+  "fesm5": "fesm5/ngx-gravatar.js",
+  "fesm2015": "fesm2015/ngx-gravatar.js",
+  "typings": "ngx-gravatar.d.ts",
+  "metadata": "ngx-gravatar.metadata.json",
+  "sideEffects": false
+}
